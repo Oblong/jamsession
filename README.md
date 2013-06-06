@@ -53,11 +53,11 @@ You can provide command line arguments following '--':
 
 ### Using the uberjar
 
-  java -jar jamsession-1.0.x-standalone.jar --port 60000
+    java -jar jamsession-1.0.x-standalone.jar --port 60000
 
 To see options:
 
-  java -jar jamsession-1.0.x-standalone.jar --help
+    java -jar jamsession-1.0.x-standalone.jar --help
 
 
 ## To run Jamsession from a Java program
