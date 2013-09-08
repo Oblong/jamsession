@@ -13,5 +13,6 @@
   :repositories {"local" ~(str (.toURI (java.io.File. "maven_repository")))}
 
   :min-lein-version  "2.0.0"
+  :aot [jamsession.jam]
   :main jamsession.jam
 )
